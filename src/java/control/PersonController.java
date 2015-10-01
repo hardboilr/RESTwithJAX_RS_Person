@@ -8,7 +8,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 /**
- * @author Tobias Jacobsen
+ * @author Tobias Jacobsen sd
  */
 public class PersonController implements PersonFacade {
     
